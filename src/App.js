@@ -91,7 +91,7 @@ function addNumber(num) {
           <td id="decimal" onClick={addDecimal} className="numbers">.</td>
         </tr>
       </table>
-      <h3 style={{textAlign:'center'}}>by <a href="www.riyadargoub.com">Riyad Argoub</a></h3>
+      <h3 style={{textAlign:'center'}}>by <a href="https://www.riyadargoub.com">Riyad Argoub</a></h3>
     </div>
   );
 }
